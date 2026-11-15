@@ -1,0 +1,131 @@
+# Bhumit Bagdiya — Complete Professional & Technical Profile
+
+> Comprehensive documentation and contextual summary of Bhumit Bagdiya's academic background, professional experience, skill matrix, competitive achievements, and technical projects.
+
+- **Full Name**: Bhumit Bagdiya
+- **Current Role**: B.Sc. FinTech Student, Active Trader & Aspiring Entrepreneur
+- **Location**: Mumbai, Maharashtra, India
+- **Primary Website**: https://bhumit192.github.io/portfolio/
+- **GitHub**: https://github.com/bhumit192
+- **Direct Email**: bhumitnbagdiya@gmail.com
+- **Direct Phone**: +91 95031 08868
+
+---
+
+## 1. Executive Summary & Bio
+
+Bhumit Bagdiya is a B.Sc. FinTech student based in Mumbai, India, with an acute passion for finance, financial markets, algorithmic and discretionary trading, technology, and entrepreneurship. Driven by the rapidly evolving intersection of financial systems and digital technology, Bhumit focuses on how emerging technologies (including Artificial Intelligence, cloud infrastructure, and algorithmic models) transform traditional financial structures.
+
+Beyond academics, Bhumit actively participates in hackathons, Model United Nations conferences, sports competitions, and corporate internships. These experiences have shaped strong disciplines in risk management, analytical thinking, high-pressure decision-making, and executive communication.
+
+---
+
+## 2. Academic Background
+
+- **Institution**: Sydenham College of Commerce and Economics (Mumbai, Maharashtra, India)
+- **Degree**: Bachelor of Science in Financial Technology (B.Sc. FinTech)
+- **Duration**: 4-Year Undergraduate Program
+- **Core Subject Areas**: 
+  - Financial Technology Systems & Digital Banking
+  - Financial Markets, Equities & Derivatives
+  - Quantitative Methods & Financial Analytics
+  - Financial Accounting & Corporate Valuation
+  - Introduction to Business Management
+  - Algorithms & Data Structures for Financial Applications
+
+---
+
+## 3. Core Competencies & Skills Matrix
+
+### A. Financial Expertise
+- **Stock Market Analysis**: Rating 8/10. Fundamental equity valuation, technical analysis, price action mechanics, and candlestick pattern recognition.
+- **Trading & Execution**: Rating 9/10. Intraday equity trading, order execution dynamics, position sizing, risk-to-reward profiling, and emotional discipline.
+- **Accounting & Financial Modeling**: Rating 9/10. Double-entry bookkeeping, corporate financial statement analysis, ratio analysis, and balance sheet modeling.
+
+### B. Technical & Programming Stack
+- **Artificial Intelligence & Machine Learning**: Understanding of AI workflows, neural network concepts, algorithmic modeling, and prompt engineering.
+- **Python**: Scripting for financial analysis, data manipulation, automation, and quantitative logic.
+- **HTML5 & Modern CSS**: High-performance responsive layouts, design tokens, glassmorphism UI, CSS animations, and accessibility (WCAG).
+- **Java**: Object-oriented programming, algorithmic foundations, and computational problem-solving.
+- **Creative & Design Tools**: Canva (visual presentation design, UI branding), Video Editing (multimedia production).
+
+### C. Leadership & Interpersonal Soft Skills
+- **Leadership & Initiative**: Guiding teams, initiating student symposiums, and spearheading collaborative projects.
+- **Team Management**: Managing responsibilities, conflict resolution, and cross-functional collaboration under deadlines.
+- **Communication & Public Speaking**: Honed through diplomatic debate in Model United Nations and academic presentations.
+- **Discipline & Emotional Control**: Cultivated through competitive athletics and trading in volatile markets.
+- **Problem Solving**: Systematic root-cause analysis and creative solution prototyping in hackathons.
+
+---
+
+## 4. Professional Experience & Corporate Internships
+
+### IBM Internship — Artificial Intelligence & Enterprise Solutions
+- **Organization**: IBM
+- **Focus**: Selected for an internship experience focusing on enterprise technology, artificial intelligence systems, and computational solutions to real-world business challenges.
+- **Key Takeaways**: Hands-on exposure to corporate enterprise workflows, modern AI principles, cross-functional team dynamics, and agile problem solving.
+
+### Infosys Internship — Systems & Technical Fundamentals
+- **Organization**: Infosys
+- **Focus**: Completed an industry-recognized technical internship program.
+- **Key Takeaways**: Strengthened software engineering foundations, algorithmic discipline, and corporate technical standards.
+
+### Finance Club Leadership
+- Active leadership in collegiate finance club activities, organizing student discussions on capital markets, monetary policy, and fintech innovation.
+
+### Sports Club Representation
+- Represented collegiate sports body in regional table tennis tournaments, promoting team spirit, discipline, and stamina.
+
+---
+
+## 5. Honors, Milestones & Competitive Achievements
+
+1. **State-Level Table Tennis Athlete**:
+   - Represented Maharashtra at the state level twice in competitive table tennis.
+   - Built exceptional reflexes, tactical agility, mental resilience, and the ability to perform under high-stakes pressure.
+
+2. **Model United Nations (MUN) Delegate**:
+   - Participated in multiple Model United Nations conferences.
+   - Developed advanced skills in international diplomacy, geopolitical research, multilateral negotiation, and public speaking.
+
+3. **Hackathons & FinTech Competitions**:
+   - Competed in technology hackathons and business case competitions, rapid-prototyping functional solutions to contemporary financial bottlenecks.
+
+4. **IBM AI Internship Certification**:
+   - Recognized for successful project completion during the IBM AI internship program.
+
+5. **Infosys Technical Program Completion**:
+   - Successfully completed technical internship curriculum with Infosys.
+
+---
+
+## 6. Flagship Project: Institutional-Grade Market Simulator
+
+The portfolio features a fully functional, browser-based financial market simulator designed to demonstrate real-time trading mechanics, market microstructure, and investor psychology.
+
+### Technical Architecture & Features:
+- **Simulation Engine**: Custom JavaScript discrete-event simulation engine with a 190ms tick loop.
+- **Stochastic Price Process**: Multi-asset random walk with Mean Reversion, Momentum, Burst Volatility, and Regime Switching (Uptrend, Downtrend, Sideways, Breakout, High Volatility, Consolidation).
+- **High-DPI Candlestick Chart**: Custom HTML5 Canvas rendering engine with fluid sub-pixel OHLCV rendering, custom 20-period Exponential Moving Average (EMA), Volume Histogram, and Relative Strength Index (RSI 14).
+- **Order Book Microstructure**: 4-tier live Bid and Ask order book ladder with dynamic depth visualization and spread monitoring.
+- **Order Execution Types**: Supports instant Market Orders and queued Limit Orders with marketable price fill logic.
+- **Portfolio & Risk Management**: Real-time position tracking, live cash accounting, unrealized vs. realized P&L calculations, and one-click market exits.
+- **Educational Psychological Arc**: A 6-phase market narrative (Bullish -> Confidence -> Distribution -> Reversal -> Capitulation) designed to teach that risk management and discipline are just as critical as finding opportunities.
+
+---
+
+## 7. Entrepreneurial Vision & Long-Term Goal
+
+> "To become a successful entrepreneur by combining finance, technology, and innovation to build impactful businesses."
+
+Bhumit is actively building foundational expertise in financial engineering, technology architectures, and market psychology with the goal of founding ventures that democratize financial literacy, improve capital access, and optimize trading technology for the next generation of global market participants.
+
+---
+
+## 8. Verified Contact Channels
+
+- **Website**: https://bhumit192.github.io/portfolio/
+- **GitHub**: https://github.com/bhumit192
+- **Email**: bhumitnbagdiya@gmail.com
+- **Phone**: +91 95031 08868
+- **Location**: Mumbai, Maharashtra, India

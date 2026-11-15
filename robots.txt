@@ -4,3 +4,8 @@ Allow: /
 
 # Sitemap Location
 Sitemap: https://bhumit192.github.io/portfolio/sitemap.xml
+
+# LLM / AI Context Discovery
+# Reference: https://llmstxt.org/
+# Short summary: https://bhumit192.github.io/portfolio/llms.txt
+# Full context: https://bhumit192.github.io/portfolio/llms-full.txt

@@ -1,0 +1,25 @@
+# Bhumit Bagdiya — FinTech Portfolio & Profile
+
+> B.Sc. FinTech student from Mumbai, India, combining financial analysis, algorithmic trading, technology, and entrepreneurship. Developer of an institutional-grade browser-based stock market simulator.
+
+- **Website**: https://bhumit192.github.io/portfolio/
+- **GitHub**: https://github.com/bhumit192
+- **Location**: Mumbai, Maharashtra, India
+- **Education**: Sydenham College of Commerce and Economics, Mumbai (B.Sc. FinTech, 4-year degree)
+- **Email**: bhumitnbagdiya@gmail.com
+- **Phone**: +91 95031 08868
+
+## Key Sections & Anchors
+
+- [About](https://bhumit192.github.io/portfolio/#about): Academic foundation, background, vision in finance and emerging technologies.
+- [Education](https://bhumit192.github.io/portfolio/#education): B.Sc. in Financial Technology at Sydenham College, Mumbai. Focus on financial systems, business analytics, and capital markets.
+- [Skills](https://bhumit192.github.io/portfolio/#skills): Financial analysis (8/10), stock trading (9/10), accounting (9/10), Python, Artificial Intelligence, HTML5, Java, Canva, video editing, leadership, and team management.
+- [Experience](https://bhumit192.github.io/portfolio/#experience): IBM Internship (AI & enterprise technology), Finance Club leadership, and collegiate athletic leadership.
+- [Achievements](https://bhumit192.github.io/portfolio/#achievements): Two-time State-Level Table Tennis Athlete, Model United Nations Delegate, FinTech Hackathons, IBM Internship, Infosys Internship.
+- [Vision](https://bhumit192.github.io/portfolio/#goal): "To become a successful entrepreneur by combining finance, technology, and innovation to build impactful businesses."
+- [Market Simulator](https://bhumit192.github.io/portfolio/#simulator): High-performance simulated paper trading terminal featuring real-time market microstructure, live OHLCV candlestick engine, order book depth ladder, EMA/RSI indicators, and order execution.
+- [Contact](https://bhumit192.github.io/portfolio/#contact): Inquiries, networking, and collaborative opportunities.
+
+## Full Context
+
+- [Full Profile & Technical Specification](https://bhumit192.github.io/portfolio/llms-full.txt): Complete detailed text including resume details, coursework, project architecture, and simulation engine mechanics.

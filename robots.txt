@@ -1,0 +1,6 @@
+# Robots.txt for Bhumit Bagdiya Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://prorake0.github.io/portfolio/sitemap.xml

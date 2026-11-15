@@ -115,7 +115,7 @@
   <!-- Bottom Brand Footer -->
   <line x1="90" y1="460" x2="1110" y2="460" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
   <text x="90" y="505" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="600" fill="#22D3EE">
-    https://prorake0.github.io/portfolio/
+    https://bhumit192.github.io/portfolio/
   </text>
   <text x="1110" y="505" font-family="'JetBrains Mono', monospace" font-size="15" fill="#5A6478" text-anchor="end">
     Interactive FinTech Portfolio • 2026

@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://prorake0.github.io/portfolio/sitemap.xml
+Sitemap: https://bhumit192.github.io/portfolio/sitemap.xml
